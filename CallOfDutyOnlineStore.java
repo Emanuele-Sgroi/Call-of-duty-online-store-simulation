@@ -2,11 +2,6 @@
 Name Project: Call Of Duty - Online Store
 Author: Nunzio Emanuele Sgroi
 
-University of West London
-Student ID: 21508918
-Module: Programming
-Type: Assessment Task 3
-
 Description
 This Java programs simulate an online shop of the famous game “Call of Duty”.
 I got the idea while purchasing an item in the real Call of Duty, so I decided to create a simulation for fun.
